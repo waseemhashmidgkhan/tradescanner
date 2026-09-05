@@ -1,0 +1,2 @@
+# tradescanner
+Binance Trade Scanner
