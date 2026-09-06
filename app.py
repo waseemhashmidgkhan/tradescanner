@@ -6,7 +6,7 @@ import pandas as pd
 import streamlit as st
 from datetime import datetime, timezone
 
-BASE_URL = "https://data-api.binance.vision"
+BASE_URL = "https://fapi.binance.com"
 S = requests.Session()
 S.headers.update({"User-Agent": "BinanceMarketScannerV2/2.0"})
 
